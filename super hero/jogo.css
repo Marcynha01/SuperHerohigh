@@ -1,0 +1,100 @@
+*{margin: 0;}
+body{
+    background-color: #ab97d1;
+}
+img{
+height: 300px;
+padding-bottom: 100px;
+}
+#logoSuperHeroGirls{
+    position: absolute;
+right: 1480px;
+top: 5px;
+    }
+
+.box{
+    width: 250px;
+    margin-top: 80px;
+    height: 250px;
+    background: rgba( 255, 255, 255, 0.35 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 13.5px );
+    -webkit-backdrop-filter: blur( 13.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+#um{
+position: absolute;
+right:90px;
+top: 150px;
+
+}
+#dois{
+    position: absolute;
+    right: 380px;
+}
+#tres{
+    position: absolute;
+    bottom: 250px;
+    left: 80px;
+}
+#quatro{
+    position: absolute;
+    right:90px;
+    bottom: -90px;
+
+    
+}
+#sete{
+    position: absolute;
+    right: 750px;
+}
+
+#seis{
+    position: absolute;
+    right:1050px;
+}
+#cinco{
+    position: absolute;
+    right:1300px;
+}
+button{
+border-radius: 15px;
+    height: 50px;
+    width: 100px;
+    background-color:#896bc2;
+    margin-top: 10px;
+}
+
+h1{
+    color:  #ab97d1;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+h2{
+    color:  #000000;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#repete{
+    font-size: 50px;
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+.mulhermen{
+    margin: 0%;
+}
+#divNumero{
+    text-align: center;
+    border-radius: 30px;
+}
+header{
+    background-color: rgb(255, 251, 253);
+ margin: 0px;
+ height: 100px;
+ padding: 10px;
+
+
+}
+ 
